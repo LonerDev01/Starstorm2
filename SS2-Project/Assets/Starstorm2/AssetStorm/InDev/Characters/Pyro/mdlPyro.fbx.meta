@@ -1,20 +1,8 @@
 fileFormatVersion: 2
-guid: e4736d2b98103414caf2deceeb4432a4
+guid: 907c1fbb60472cf4f82bf7ad95023a5a
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: -5324238279805231817
-    second: metarig|Idle
-  - first:
-      74: -4158892538556607495
-    second: metarig|Idle.001
-  - first:
-      74: -4280696386852663788
-    second: metarig|Jog
-  - first:
-      74: -3728578157978633136
-    second: metarig|TrueWalk
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 1
@@ -102,7 +90,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
