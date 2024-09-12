@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -1881990681, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
   m_Name: survivorPyro
   m_EditorClassIdentifier: 
-  bodyPrefab: {fileID: 738655439022312548, guid: 66c3c98b28ddbbc4a939fc2f486f7cea,
+  bodyPrefab: {fileID: 738655439022312548, guid: 7b5c04074cd7e5543ab3dc4a7b30cd5f,
     type: 3}
   displayPrefab: {fileID: 7905980673459968783, guid: bed987365408ad443b68fdead8c211a2,
     type: 3}

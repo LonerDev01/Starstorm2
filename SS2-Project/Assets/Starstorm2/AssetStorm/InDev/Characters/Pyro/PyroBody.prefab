@@ -933,7 +933,7 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.35
-  m_Height: 2.24
+  m_Height: 2.16
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &272646455320611411
@@ -951,8 +951,8 @@ MonoBehaviour:
   CharacterController: {fileID: 907428609562046513}
   Capsule: {fileID: 9052939311622991144}
   Rigidbody: {fileID: 5559006717738541633}
-  CapsuleRadius: 0.5
-  CapsuleHeight: 1.82
+  CapsuleRadius: 0.35
+  CapsuleHeight: 2.16
   CapsuleYOffset: 0
   CapsulePhysicsMaterial: {fileID: 0}
   DetectDiscreteCollisions: 0
@@ -960,7 +960,7 @@ MonoBehaviour:
   MaxStepHeight: 0.2
   MinRequiredStepDepth: 0.1
   MaxStableSlopeAngle: 55
-  MaxStableDistanceFromLedge: 0.5
+  MaxStableDistanceFromLedge: 0.14
   PreventSnappingOnLedges: 0
   MaxStableDenivelationAngle: 55
   RigidbodyInteractionType: 0
@@ -1594,7 +1594,7 @@ Transform:
   m_GameObject: {fileID: 1858979819685135640}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2222223, y: 1.2222223, z: 1.2222223}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 907585268584411351}
   m_Father: {fileID: 9051920477755995763}
@@ -3563,7 +3563,7 @@ Transform:
   m_GameObject: {fileID: 5806926297443920381}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2222223, y: 1.2222223, z: 1.2222223}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7251568926096820343}
   - {fileID: 7030997290238640018}
@@ -4909,7 +4909,7 @@ Transform:
   m_GameObject: {fileID: 8813626161127227785}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.45, y: 0.45, z: 0.45}
+  m_LocalScale: {x: 0.55, y: 0.55, z: 0.55}
   m_Children:
   - {fileID: 270560390592307059}
   - {fileID: 8837344198475289679}
